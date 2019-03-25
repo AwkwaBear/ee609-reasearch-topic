@@ -1,5 +1,3 @@
-# ee609-reasearch-topic
-
 ## SOURCES
 
 https://arxiv.org/abs/0708.0261
